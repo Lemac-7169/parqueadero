@@ -11,7 +11,7 @@ btn-primary">Nuevo</a>
             <thead>
             <tr>
                 <th>Placa</th>
-                <th>Tipo</t
+                <th>Tipo</th>
                 <th>Propietario</th>
                 <th>Ingreso</th>
                 <th>Acciones</th>
